@@ -1,4 +1,5 @@
-package Chapter12;
+package Chapter12.Interface;
+
 
 //상속받아서 add/substaract 구현
 public abstract class CompleteCalc1 implements Calc{

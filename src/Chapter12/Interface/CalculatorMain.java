@@ -1,4 +1,4 @@
-package Chapter12;
+package Chapter12.Interface;
 
 public class CalculatorMain {
 
@@ -31,5 +31,4 @@ public class CalculatorMain {
         calc2.showInfo();
         
 	}
-
 }
