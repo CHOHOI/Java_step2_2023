@@ -1,6 +1,0 @@
-package Chapter11;
-
-public abstract class HttpServlet {
-	
-	public abstract void service(); //추상메소드
-}
